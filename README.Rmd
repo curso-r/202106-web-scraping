@@ -15,7 +15,7 @@ library(magrittr)
 
 main_repo <- "main-web-scraping"
 turma <- "202106-web-scraping"
-num_aula <- 1
+num_aula <- 2
 ```
 
 ```{r ws, fig.cap="Fluxo do Web Scraping.", out.width="70%", echo=FALSE, dpi = 300, fig.align="center"}

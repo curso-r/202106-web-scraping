@@ -53,12 +53,14 @@ versões modificadas do material básico da aula.
 | script       | link                                                                          |
 |:-------------|:------------------------------------------------------------------------------|
 | 01-pokemon.R | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/01-pokemon.R> |
+| 02-sabesp.R  | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/02-sabesp.R>  |
 
 ## Lição de casa
 
 | nome                    | link                                                                  |
 |:------------------------|:----------------------------------------------------------------------|
 | exercicios/01-pokemon.R | <https://curso-r.github.io/main-web-scraping/exercicios/01-pokemon.R> |
+| exercicios/02-sabesp.R  | <https://curso-r.github.io/main-web-scraping/exercicios/02-sabesp.R>  |
 
 ## Trabalhos finais premiados
 
@@ -68,13 +70,16 @@ versões modificadas do material básico da aula.
 
 Referências extras comentadas nas aulas.
 
-| Aula | Tema        | Descrição                                                                                                           |
-|-----:|:------------|:--------------------------------------------------------------------------------------------------------------------|
-|    0 | janitor     | [Pacote janitor no livro da curso-r](https://livro.curso-r.com/11-1-arrumando-banco-de-dados-o-pacote-janitor.html) |
-|    1 | organizacao | [Slides de pacotes](https://curso-r.github.io/main-pacotes/slides/index.html)                                       |
-|    1 | organizacao | [Livro Zen do R](https://curso-r.github.io/zen-do-r/)                                                               |
-|    1 | organizacao | [Livro R Packages](https://r-pkgs.org/)                                                                             |
-|    1 | leitura     | [Artigo do Hadley sobre Tidy Data](https://www.jstatsoft.org/article/view/v059i10)                                  |
+| Aula | Tema        | Descrição                                                                                                                            |
+|-----:|:------------|:-------------------------------------------------------------------------------------------------------------------------------------|
+|    0 | janitor     | [Pacote janitor no livro da curso-r](https://livro.curso-r.com/11-1-arrumando-banco-de-dados-o-pacote-janitor.html)                  |
+|    1 | organizacao | [Slides de pacotes](https://curso-r.github.io/main-pacotes/slides/index.html)                                                        |
+|    1 | organizacao | [Livro Zen do R](https://curso-r.github.io/zen-do-r/)                                                                                |
+|    1 | organizacao | [Livro R Packages](https://r-pkgs.org/)                                                                                              |
+|    1 | leitura     | [Artigo do Hadley sobre Tidy Data](https://www.jstatsoft.org/article/view/v059i10)                                                   |
+|    2 | organizacao | [Exemplo de documentação de dados](https://r-pkgs.org/data.html#documenting-data)                                                    |
+|    2 | exemplo     | [Exemplo de pacote com automação](https://github.com/abjur/falrec)                                                                   |
+|    2 | leitura     | [Como instalar o rJava](https://cimentadaj.github.io/blog/2018-05-25-installing-rjava-on-windows-10/installing-rjava-on-windows-10/) |
 
 ## Redes sociais da Curso-R
 
