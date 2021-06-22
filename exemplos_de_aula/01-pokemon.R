@@ -24,6 +24,7 @@ content(r_pokemon, "text") %>%
 
 # 2. Pegar informações filtrando com o código
 
+# preferível
 q_pokemon <- list(
   limit = 8,
   offset = 1
@@ -55,3 +56,4 @@ GET(
   write_disk("output/01-pokemon.json", overwrite = TRUE)
 )
 
+read_json("output/01-pokemon.json", simplifyDataFrame = TRUE)
