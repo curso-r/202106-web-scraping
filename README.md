@@ -54,6 +54,10 @@ versões modificadas do material básico da aula.
 |:-------------|:------------------------------------------------------------------------------|
 | 01-pokemon.R | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/01-pokemon.R> |
 | 02-sabesp.R  | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/02-sabesp.R>  |
+| 03-sptrans.R | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/03-sptrans.R> |
+| 04-twitter.R | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/04-twitter.R> |
+| 05-covid.R   | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/05-covid.R>   |
+| 06-html.R    | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/06-html.R>    |
 
 ## Lição de casa
 
@@ -61,6 +65,10 @@ versões modificadas do material básico da aula.
 |:------------------------|:----------------------------------------------------------------------|
 | exercicios/01-pokemon.R | <https://curso-r.github.io/main-web-scraping/exercicios/01-pokemon.R> |
 | exercicios/02-sabesp.R  | <https://curso-r.github.io/main-web-scraping/exercicios/02-sabesp.R>  |
+| exercicios/03-sptrans.R | <https://curso-r.github.io/main-web-scraping/exercicios/03-sptrans.R> |
+| exercicios/04-twitter.R | <https://curso-r.github.io/main-web-scraping/exercicios/04-twitter.R> |
+| exercicios/05-covid.R   | <https://curso-r.github.io/main-web-scraping/exercicios/05-covid.R>   |
+| exercicios/06-html.R    | <https://curso-r.github.io/main-web-scraping/exercicios/06-html.R>    |
 
 ## Trabalhos finais premiados
 
