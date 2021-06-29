@@ -15,7 +15,7 @@ library(magrittr)
 
 main_repo <- "main-web-scraping"
 turma <- "202106-web-scraping"
-num_aula <- 2
+num_aula <- 3
 ```
 
 ```{r ws, fig.cap="Fluxo do Web Scraping.", out.width="70%", echo=FALSE, dpi = 300, fig.align="center"}
@@ -73,7 +73,7 @@ tibble::tibble(
   nome = CursoRutils:::list_github_files(main_repo, "exercicios/"),
   link = paste0("https://curso-r.github.io/", main_repo, "/", nome)
 ) %>%
-  dplyr::filter(as.numeric(stringr::str_extract(nome, "[0-9]{2}")) <= num_aula + 4) %>% 
+  dplyr::filter(as.numeric(stringr::str_extract(nome, "[0-9]{2}")) <= num_aula + 5) %>% 
   knitr::kable()
 ```
 

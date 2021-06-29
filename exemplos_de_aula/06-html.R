@@ -4,6 +4,7 @@ library(xml2)
 html <- read_html("exemplos_de_aula/html_exemplo.html")
 
 x <- xml_find_all(html, "//p")
+x
 x[[1]]
 # // faz a busca "profunda"
 xml_find_first(html, "//p")

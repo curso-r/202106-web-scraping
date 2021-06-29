@@ -50,25 +50,30 @@ Fora do horário de aula ou monitoria:
 Aqui colocamos scripts utilizados em aula que são novos ou que são
 versões modificadas do material básico da aula.
 
-| script       | link                                                                          |
-|:-------------|:------------------------------------------------------------------------------|
-| 01-pokemon.R | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/01-pokemon.R> |
-| 02-sabesp.R  | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/02-sabesp.R>  |
-| 03-sptrans.R | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/03-sptrans.R> |
-| 04-twitter.R | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/04-twitter.R> |
-| 05-covid.R   | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/05-covid.R>   |
-| 06-html.R    | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/06-html.R>    |
+| script           | link                                                                              |
+|:-----------------|:----------------------------------------------------------------------------------|
+| 01-pokemon.R     | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/01-pokemon.R>     |
+| 02-sabesp.R      | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/02-sabesp.R>      |
+| 03-sptrans.R     | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/03-sptrans.R>     |
+| 04-twitter.R     | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/04-twitter.R>     |
+| 05-covid.R       | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/05-covid.R>       |
+| 06-html.R        | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/06-html.R>        |
+| 07-chancedegol.R | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/07-chancedegol.R> |
+| 08-tjsp.R        | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/08-tjsp.R>        |
+| 09-discourse.R   | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/09-discourse.R>   |
 
 ## Lição de casa
 
-| nome                    | link                                                                  |
-|:------------------------|:----------------------------------------------------------------------|
-| exercicios/01-pokemon.R | <https://curso-r.github.io/main-web-scraping/exercicios/01-pokemon.R> |
-| exercicios/02-sabesp.R  | <https://curso-r.github.io/main-web-scraping/exercicios/02-sabesp.R>  |
-| exercicios/03-sptrans.R | <https://curso-r.github.io/main-web-scraping/exercicios/03-sptrans.R> |
-| exercicios/04-twitter.R | <https://curso-r.github.io/main-web-scraping/exercicios/04-twitter.R> |
-| exercicios/05-covid.R   | <https://curso-r.github.io/main-web-scraping/exercicios/05-covid.R>   |
-| exercicios/06-html.R    | <https://curso-r.github.io/main-web-scraping/exercicios/06-html.R>    |
+| nome                        | link                                                                      |
+|:----------------------------|:--------------------------------------------------------------------------|
+| exercicios/01-pokemon.R     | <https://curso-r.github.io/main-web-scraping/exercicios/01-pokemon.R>     |
+| exercicios/02-sabesp.R      | <https://curso-r.github.io/main-web-scraping/exercicios/02-sabesp.R>      |
+| exercicios/03-sptrans.R     | <https://curso-r.github.io/main-web-scraping/exercicios/03-sptrans.R>     |
+| exercicios/04-twitter.R     | <https://curso-r.github.io/main-web-scraping/exercicios/04-twitter.R>     |
+| exercicios/05-covid.R       | <https://curso-r.github.io/main-web-scraping/exercicios/05-covid.R>       |
+| exercicios/06-html.R        | <https://curso-r.github.io/main-web-scraping/exercicios/06-html.R>        |
+| exercicios/07-chancedegol.R | <https://curso-r.github.io/main-web-scraping/exercicios/07-chancedegol.R> |
+| exercicios/08-tjsp.R        | <https://curso-r.github.io/main-web-scraping/exercicios/08-tjsp.R>        |
 
 ## Trabalhos finais premiados
 
@@ -88,6 +93,7 @@ Referências extras comentadas nas aulas.
 |    2 | organizacao | [Exemplo de documentação de dados](https://r-pkgs.org/data.html#documenting-data)                                                    |
 |    2 | exemplo     | [Exemplo de pacote com automação](https://github.com/abjur/falrec)                                                                   |
 |    2 | leitura     | [Como instalar o rJava](https://cimentadaj.github.io/blog/2018-05-25-installing-rjava-on-windows-10/installing-rjava-on-windows-10/) |
+|    3 | leitura     | [Aula sobre Regex](https://curso-r.github.io/main-r4ds-2/slides/04-stringr.html#1)                                                   |
 
 ## Redes sociais da Curso-R
 
