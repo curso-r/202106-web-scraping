@@ -74,6 +74,9 @@ versões modificadas do material básico da aula.
 | exercicios/06-html.R        | <https://curso-r.github.io/main-web-scraping/exercicios/06-html.R>        |
 | exercicios/07-chancedegol.R | <https://curso-r.github.io/main-web-scraping/exercicios/07-chancedegol.R> |
 | exercicios/08-tjsp.R        | <https://curso-r.github.io/main-web-scraping/exercicios/08-tjsp.R>        |
+| exercicios/10-wiki.R        | <https://curso-r.github.io/main-web-scraping/exercicios/10-wiki.R>        |
+| exercicios/11-dejt.R        | <https://curso-r.github.io/main-web-scraping/exercicios/11-dejt.R>        |
+| exercicios/12-jobs.R        | <https://curso-r.github.io/main-web-scraping/exercicios/12-jobs.R>        |
 
 ## Trabalhos finais premiados
 

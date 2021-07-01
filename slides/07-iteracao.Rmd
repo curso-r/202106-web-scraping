@@ -18,11 +18,6 @@ knit: pagedown::chrome_print
 
 ```
 
----
-class: inverse, center, middle
-# Iteração
-
----
 # O fluxo do web scraping
 
 - Sempre que fazemos um web scraper é bom seguir um fluxo definido
@@ -137,8 +132,8 @@ funcione
 o trabalho
 
 ```{r, error = TRUE}
-maybe_read_html <- possibly(read_html, NULL)
 read_html("https://errado.que")
+maybe_read_html <- possibly(read_html, NULL)
 maybe_read_html("https://errado.que")
 ```
 
