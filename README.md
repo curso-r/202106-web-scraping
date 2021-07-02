@@ -61,6 +61,8 @@ versões modificadas do material básico da aula.
 | 07-chancedegol.R | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/07-chancedegol.R> |
 | 08-tjsp.R        | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/08-tjsp.R>        |
 | 09-discourse.R   | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/09-discourse.R>   |
+| 10-wiki.R        | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/10-wiki.R>        |
+| 12-jobs.R        | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/12-jobs.R>        |
 
 ## Lição de casa
 
@@ -97,6 +99,9 @@ Referências extras comentadas nas aulas.
 |    2 | exemplo     | [Exemplo de pacote com automação](https://github.com/abjur/falrec)                                                                   |
 |    2 | leitura     | [Como instalar o rJava](https://cimentadaj.github.io/blog/2018-05-25-installing-rjava-on-windows-10/installing-rjava-on-windows-10/) |
 |    3 | leitura     | [Aula sobre Regex](https://curso-r.github.io/main-r4ds-2/slides/04-stringr.html#1)                                                   |
+|    4 | leitura     | [Agendando scripts com cronR](https://blog.curso-r.com/posts/2017-11-13-tutorial-cronr/)                                             |
+|    4 | exemplo     | [Trabalho do Marcello Filgueiras](https://github.com/jfemdados/covid19_pjf/blob/main/casos_diarios/casos_covidjf.R)                  |
+|    4 | leitura     | [Um pouco mais sobre o progressr](https://cran.r-project.org/web/packages/progressr/vignettes/progressr-intro.html)                  |
 
 ## Redes sociais da Curso-R
 
