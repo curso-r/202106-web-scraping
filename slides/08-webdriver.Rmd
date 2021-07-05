@@ -16,12 +16,8 @@ knit: pagedown::chrome_print
 ---
 
 ```{r, child="00-preamble.Rmd"}
-
-library(magrittr)
-
 ```
 
----
 class: inverse, center, middle
 
 # Selenium
@@ -61,7 +57,7 @@ nenhuma requisição HTTP
   
   - Bastante sensível
   
-  - `RSelenium` está **completamente quebrado**
+  - `RSelenium` tem fama de ser **quebrado**
 
 ---
 # WebDriver
@@ -72,7 +68,7 @@ nenhuma requisição HTTP
 
 - A diferença está no R: pacotes `RSelenium` e `webdriver`
 
-  - `RSelenium` essencialmente não funciona
+  - `RSelenium` exige certo conhecimento para fazer funcionar
   
   - `webdriver` foi feito pela própria RStudio para resolver o problema
 
@@ -108,6 +104,7 @@ ses$takeScreenshot(file = arq)
 ```
 
 ```{r, echo=FALSE, fig.align='center'}
+library(magrittr)
 arq %>%
   magick::image_read() %>%
   magick::image_crop("x600") %>%
@@ -137,8 +134,6 @@ tecla para o elemento
 
 # Vamos ao R!
 
-Obter dados de um shiny app!
-
 ```{r, echo=FALSE, fig.align="center"}
 knitr::include_graphics("img/cat.gif")
 ```
@@ -146,7 +141,7 @@ knitr::include_graphics("img/cat.gif")
 ---
 # Quer mais?
 
-- O PhantomJS, apesar de muito capaz, ainda não consegue exibir todo o conteúdo
+- O PhantomJS, apesar de muito capaz, não consegue exibir todo o conteúdo
 dinâmico de uma página
 
 - Para solucionar esse problema, é necessário usar o RSelenium com um navegador
@@ -155,7 +150,7 @@ de verdade como backend
   - Nem sempre a instalação do `RSelenium` funciona e em alguns sistemas
   operacionais há outras dependências
   
-  - A documentação do `RSelenium` está atrasada, dificultando qualquer pesquisa
+  - A documentação do `RSelenium` é bagunçada, dificultando qualquer pesquisa
   
   - O método sugerido para utilizar navegadores externos depende do Docker,
   um programa sem relação com o R
@@ -165,7 +160,7 @@ de verdade como backend
 ---
 # Demonstração
 
-- As funções do `RSelenium` são parecidas com as do `webdriver`, mas envolvem um
+- As funções do `RSelenium` são parecidas com as do `webdriver`, mas envolvem
 mais esforço
 
 - No exemplo abaixo, o `RSelenium` abre uma aba do Firefox no meu computador e
@@ -225,8 +220,6 @@ arq %>%
 ---
 
 # Vamos ao R!
-
-Obter dados de um shiny app!
 
 ```{r, echo=FALSE, fig.align="center"}
 knitr::include_graphics("img/cat.gif")
