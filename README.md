@@ -79,6 +79,9 @@ versões modificadas do material básico da aula.
 | exercicios/10-wiki.R        | <https://curso-r.github.io/main-web-scraping/exercicios/10-wiki.R>        |
 | exercicios/11-dejt.R        | <https://curso-r.github.io/main-web-scraping/exercicios/11-dejt.R>        |
 | exercicios/12-jobs.R        | <https://curso-r.github.io/main-web-scraping/exercicios/12-jobs.R>        |
+| exercicios/13-pesqele.R     | <https://curso-r.github.io/main-web-scraping/exercicios/13-pesqele.R>     |
+| exercicios/14-pbi.R         | <https://curso-r.github.io/main-web-scraping/exercicios/14-pbi.R>         |
+| exercicios/15-captcha.R     | <https://curso-r.github.io/main-web-scraping/exercicios/15-captcha.R>     |
 
 ## Trabalhos finais premiados
 
