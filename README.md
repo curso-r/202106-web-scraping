@@ -63,6 +63,8 @@ versões modificadas do material básico da aula.
 | 09-discourse.R   | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/09-discourse.R>   |
 | 10-wiki.R        | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/10-wiki.R>        |
 | 12-jobs.R        | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/12-jobs.R>        |
+| 13-pesqele.R     | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/13-pesqele.R>     |
+| 14-pbi.R         | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/14-pbi.R>         |
 
 ## Lição de casa
 
@@ -105,6 +107,9 @@ Referências extras comentadas nas aulas.
 |    4 | leitura     | [Agendando scripts com cronR](https://blog.curso-r.com/posts/2017-11-13-tutorial-cronr/)                                             |
 |    4 | exemplo     | [Trabalho do Marcello Filgueiras](https://github.com/jfemdados/covid19_pjf/blob/main/casos_diarios/casos_covidjf.R)                  |
 |    4 | leitura     | [Um pouco mais sobre o progressr](https://cran.r-project.org/web/packages/progressr/vignettes/progressr-intro.html)                  |
+|    5 | leitura     | [Material sobre xpath](https://www.w3schools.com/xml/xpath_syntax.asp)                                                               |
+|    5 | leitura     | [Documentação do RSelenium](https://docs.ropensci.org/RSelenium/)                                                                    |
+|    5 | leitura     | [Comparação BI e Shiny](https://blog.rstudio.com/2021/03/18/bi-and-data-science-the-tradeoffs/)                                      |
 
 ## Redes sociais da Curso-R
 
