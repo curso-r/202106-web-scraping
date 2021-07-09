@@ -50,21 +50,25 @@ Fora do horário de aula ou monitoria:
 Aqui colocamos scripts utilizados em aula que são novos ou que são
 versões modificadas do material básico da aula.
 
-| script           | link                                                                              |
-|:-----------------|:----------------------------------------------------------------------------------|
-| 01-pokemon.R     | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/01-pokemon.R>     |
-| 02-sabesp.R      | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/02-sabesp.R>      |
-| 03-sptrans.R     | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/03-sptrans.R>     |
-| 04-twitter.R     | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/04-twitter.R>     |
-| 05-covid.R       | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/05-covid.R>       |
-| 06-html.R        | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/06-html.R>        |
-| 07-chancedegol.R | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/07-chancedegol.R> |
-| 08-tjsp.R        | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/08-tjsp.R>        |
-| 09-discourse.R   | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/09-discourse.R>   |
-| 10-wiki.R        | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/10-wiki.R>        |
-| 12-jobs.R        | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/12-jobs.R>        |
-| 13-pesqele.R     | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/13-pesqele.R>     |
-| 14-pbi.R         | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/14-pbi.R>         |
+| script            | link                                                                               |
+|:------------------|:-----------------------------------------------------------------------------------|
+| 01-pokemon.R      | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/01-pokemon.R>      |
+| 02-sabesp.R       | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/02-sabesp.R>       |
+| 03-sptrans.R      | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/03-sptrans.R>      |
+| 04-twitter.R      | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/04-twitter.R>      |
+| 05-covid.R        | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/05-covid.R>        |
+| 06-html.R         | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/06-html.R>         |
+| 07-chancedegol.R  | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/07-chancedegol.R>  |
+| 08-tjsp.R         | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/08-tjsp.R>         |
+| 09-discourse.R    | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/09-discourse.R>    |
+| 10-wiki.R         | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/10-wiki.R>         |
+| 12-jobs.R         | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/12-jobs.R>         |
+| 13-pesqele.R      | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/13-pesqele.R>      |
+| 14-pbi.R          | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/14-pbi.R>          |
+| 15-gh-actions.yml | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/15-gh-actions.yml> |
+| 16-tjba.R         | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/16-tjba.R>         |
+| 17-mp.R           | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/17-mp.R>           |
+| 18-esalq.R        | <https://curso-r.github.io/202106-web-scraping/exemplos_de_aula/18-esalq.R>        |
 
 ## Lição de casa
 
@@ -83,7 +87,7 @@ versões modificadas do material básico da aula.
 | exercicios/12-jobs.R        | <https://curso-r.github.io/main-web-scraping/exercicios/12-jobs.R>        |
 | exercicios/13-pesqele.R     | <https://curso-r.github.io/main-web-scraping/exercicios/13-pesqele.R>     |
 | exercicios/14-pbi.R         | <https://curso-r.github.io/main-web-scraping/exercicios/14-pbi.R>         |
-| exercicios/15-captcha.R     | <https://curso-r.github.io/main-web-scraping/exercicios/15-captcha.R>     |
+| exercicios/16-tjba.R        | <https://curso-r.github.io/main-web-scraping/exercicios/16-tjba.R>        |
 
 ## Trabalhos finais premiados
 
@@ -110,6 +114,8 @@ Referências extras comentadas nas aulas.
 |    5 | leitura     | [Material sobre xpath](https://www.w3schools.com/xml/xpath_syntax.asp)                                                               |
 |    5 | leitura     | [Documentação do RSelenium](https://docs.ropensci.org/RSelenium/)                                                                    |
 |    5 | leitura     | [Comparação BI e Shiny](https://blog.rstudio.com/2021/03/18/bi-and-data-science-the-tradeoffs/)                                      |
+|    6 | video       | [Github Actions](https://www.youtube.com/watch?v=fasKKHxye5w)                                                                        |
+|    6 | leitura     | [Github Actions](https://docs.github.com/pt/actions/reference/workflow-syntax-for-github-actions)                                    |
 
 ## Redes sociais da Curso-R
 

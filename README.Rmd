@@ -15,7 +15,7 @@ library(magrittr)
 
 main_repo <- "main-web-scraping"
 turma <- "202106-web-scraping"
-num_aula <- 5
+num_aula <- 6
 ```
 
 ```{r ws, fig.cap="Fluxo do Web Scraping.", out.width="70%", echo=FALSE, dpi = 300, fig.align="center"}
@@ -60,7 +60,7 @@ Aqui colocamos scripts utilizados em aula que são novos ou que são versões mo
 ```{r}
 pasta <- "exemplos_de_aula/"
 tibble::tibble(
-  script = list.files(pasta, pattern = ".R"),
+  script = list.files(pasta, pattern = ".R|.yml"),
   link = paste0("https://curso-r.github.io/", turma, "/", pasta, script)
 ) %>% 
   knitr::kable()
@@ -73,7 +73,7 @@ tibble::tibble(
   nome = CursoRutils:::list_github_files(main_repo, "exercicios/"),
   link = paste0("https://curso-r.github.io/", main_repo, "/", nome)
 ) %>%
-  dplyr::filter(as.numeric(stringr::str_extract(nome, "[0-9]{2}")) <= num_aula + 10) %>% 
+  # dplyr::filter(as.numeric(stringr::str_extract(nome, "[0-9]{2}")) <= num_aula + 10) %>% 
   knitr::kable()
 ```
 
